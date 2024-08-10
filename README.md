@@ -7,9 +7,13 @@ Drive_link:-https://drive.google.com/drive/folders/12jKCyrCMhGHZbK0j7I4R3LmwOhSo
 
 SkyNet Analysis Inc. is a leading consultancy firm specializing in aviation analytics. With the aviation industry's rapid expansion and the increasing complexity of global air travel, SkyNet plays a critical role in providing data-driven insights to airlines, airports, and regulatory bodies. The company has access to extensive datasets that cover a wide range of information, including flight schedules, delays, airline operations, and airport traffic details. These datasets offer a unique opportunity to explore and understand the multifaceted nature of the aviation industry, from operational efficiency and customer satisfaction to logistical challenges and environmental impact.
 
+![image](https://github.com/user-attachments/assets/ea5611a8-747a-490f-bd80-a66caa44dd96)
+
 ### Objective:
 
 The primary objective of this case study, titled "Sky Analytics: Navigating the Complexities of Airline and Airport Operations," is to deeply analyze and interpret the extensive datasets encompassing flights, airlines, and airports - namely "flights.csv", "airlines.csv", and "airports.csv". The analysis aims to uncover critical insights into flight operations, delay patterns, airline efficiency, and airport traffic dynamics. By exploring these datasets, the study seeks to identify key factors influencing operational efficiency, understand the intricacies of flight scheduling and delays, and evaluate the performance metrics of airlines and airports. The ultimate goal is to provide strategic recommendations to enhance operational effectiveness, improve customer experiences in air travel, and contribute to the overall advancement of the aviation industry's standards and practices.
+
+![image](https://github.com/user-attachments/assets/9d4cc844-3772-4856-8d79-4a0389c0c568)
 
 ### Data Source:
 
@@ -74,14 +78,35 @@ The primary objective of this case study, titled "Sky Analytics: Navigating the 
 
 **LATITUDE, LONGITUDE**: Geographic coordinates of the airport.
 
-**Dashboard**:
+![image](https://github.com/user-attachments/assets/9c88bc3d-c95d-498f-86ac-252b9745cd63)
+
+<h1>Dashboard 1: Airline Performance</h1>
 
 ![Screenshot (254)](https://github.com/user-attachments/assets/bfceceae-6630-4e11-96b8-d5d511d6106c)
 
+<h1>Dashboard 2: Time Seires Analysis Dashboard</h1>
+
 ![Screenshot (255)](https://github.com/user-attachments/assets/31421bac-74ba-46df-b48e-7f1eb5ca71b7)
 
-![Screenshot (253)](https://github.com/user-attachments/assets/2ee49990-801c-4595-8d79-56d3e4f700bc)
+![image](https://github.com/user-attachments/assets/9a17911e-5ccc-4076-ad47-a72e12975872)
 
-![Screenshot (256)](https://github.com/user-attachments/assets/44f3ab8b-5f71-4b88-97c9-fa68cb55f7a6)
+**Tools**
 
+-Microsoft Excel
 
+- Created Navigation Options to navigate across Dataset and other Dashboards
+- Included Slicers for making Dashboard Interactive
+- 
+  ![image](https://github.com/user-attachments/assets/0afb6c51-4a8b-4754-a32c-45624fb83ece)
+
+<h2>Data Cleaning and Preprocessing</h2>
+
+To do a Comprehensive Analysis, we performed the following tasks on the dataset to make it efficient for making Dashboards:
+
+1.Data loading, Inspection and Using VLOOKUP to merge datasets
+
+2.Handling and Understanding missing values
+
+3.Formatting Data Types
+
+4.Feature Engineering multiple columns
