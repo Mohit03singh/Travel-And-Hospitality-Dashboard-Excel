@@ -2,9 +2,7 @@ Drive_link:-https://drive.google.com/drive/folders/12jKCyrCMhGHZbK0j7I4R3LmwOhSo
 
 ![image](https://github.com/user-attachments/assets/ea5611a8-747a-490f-bd80-a66caa44dd96)
 
-![airplane_image](https://github.com/user-attachments/assets/bc304938-5e20-42c4-8603-9d39d0feb5e3)
-
-
+![airplane_1](https://github.com/user-attachments/assets/05a36e3c-ea9c-42ca-b6c6-8398ad46bcf3)
 
 <h1>Travel & Hospitality</h1>
 <h2> Sky Analytics: Navigating the Complexities of Airline and Airport Operations.</h2>
